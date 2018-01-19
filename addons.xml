@@ -77,7 +77,7 @@
 
 <addon id="plugin.video.sportie" 
          name="Sportie" 
-         version="2.00.008"
+         version="2.00.009"
          provider-name="Echo Coder">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
